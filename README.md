@@ -49,6 +49,11 @@ Sim (Quer que eu adicione uma tela de relatórios com gráficos e extrato detalh
 🎯 Resultado Final
 Acesse o protótipo funcional no Lovable:
 
+<img width="1901" height="882" alt="Captura de tela 2026-04-07 171333" src="https://github.com/user-attachments/assets/a0a9fe46-0b47-49c3-a3e9-9b4e755fc729" />
+
+<img width="1812" height="846" alt="Captura de tela 2026-04-07 171401" src="https://github.com/user-attachments/assets/f3fb9d2f-eaf7-426c-8d08-280cd5b607b2" />
+
+<img width="1862" height="828" alt="Captura de tela 2026-04-07 171435" src="https://github.com/user-attachments/assets/ae697203-2c07-44d3-ba22-5315347cf44a" />
 
 🔍 Funcionalidades do App de Organização Financeira
 1. Painel Financeiro

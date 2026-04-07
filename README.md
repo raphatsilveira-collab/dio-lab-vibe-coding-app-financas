@@ -1,5 +1,5 @@
 # dio-lab-vibe-coding-app-financas
-App de finanças com vibe coding
+
 💸 App de Finanças Pessoais do  com Vibe Coding
 Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
 
